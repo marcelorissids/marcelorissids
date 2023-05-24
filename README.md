@@ -6,8 +6,8 @@
 I'm a bachelor in Civil Engineering and passionate about technology and especially data.
 </p>
 
-- 🔭 Check out my Portfolio [here](https://marcelorissids.github.io/portfolio_projetos/)
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Check out my Portfolio [here](https://marcelorissids.github.io/portfolio/)
+- 🌱 I’m currently learning SQL 🤣
 - 💻 Learning in public on <a href="https://www.twitch.tv/ticrovis/about">Twitch</a>
 - 💼 Sharing uptades on <a href="https://www.linkedin.com/in/marcelorissi/">LinkedIn</a> 
 - 📌 Living in Franca, São Paulo, Brazil
