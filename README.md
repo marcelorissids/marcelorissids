@@ -29,10 +29,10 @@ I'm a bachelor in Civil Engineering and passionate about technology and especial
 </br>
 <center>
 <table>
-  <tr>
+  <!--<tr>
       <td><img width="495px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api?username=marcelorissids&theme=dark" /></td>  
       <td><img width="400px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api/top-langs/?username=marcelorissids&hide=html&layout=compact&theme=dark" /></td>
-  </tr>   
+  </tr>-->   
 </table>
 </center>
 
